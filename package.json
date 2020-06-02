@@ -1,0 +1,23 @@
+{
+  "name": "api1-project",
+  "version": "1.0.0",
+  "description": "## Topics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjsmith25/node-api1-project.git"
+  },
+  "author": "Russell Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjsmith25/node-api1-project/issues"
+  },
+  "homepage": "https://github.com/rjsmith25/node-api1-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
